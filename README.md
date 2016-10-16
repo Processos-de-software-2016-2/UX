@@ -3,8 +3,8 @@
 O time de UX será responsável, dentre outras coisas, pela usabilidade e interação humano-computador
 
 ## Team
-- Fernanda Chacon
-- João Matias
-- Fabiana Marinheiro
+- [Fabiana Marinheiro] (https://github.com/Fabixmar)
+- [Fernanda Chacon] (https://github.com/fernandachacon)
+- [João Matias] (https://github.com/jmatiasn)
 - Paula
 
