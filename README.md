@@ -1,9 +1,17 @@
-# UX
+# Project X
 
-O time de UX será responsável, dentre outras coisas, pela usabilidade e interação humano-computador
+## UX
+The UX team will be responsible, among other things, the usability and human-computer interaction.
 
 ## Team
 - [Fabiana Marinheiro] (https://github.com/Fabixmar)
 - [Fernanda Chacon] (https://github.com/fernandachacon)
 - [João Matias] (https://github.com/jmatiasn)
-- Paula
+- [Paula] (https://github.com/paulalps)
+
+## Other teams
+This project is developed with the following teams: [Android](https://github.com/Processos-de-software-2016-2/Android), [API](https://github.com/Processos-de-software-2016-2/python-api), [Infrastructure](https://github.com/Processos-de-software-2016-2/Infraestrutura) and [WebApp](https://github.com/Processos-de-software-2016-2/Web-App).
+
+## License
+
+
