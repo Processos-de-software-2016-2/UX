@@ -23,6 +23,11 @@ O time de UX será responsável, dentre outras coisas, pela usabilidade e intera
 
 - 1st Spring - 10/26
 
+## Ferramentas úteis
+
+- [Draw.io] (https://www.draw.io/) - Para fazer mockups de telas. Permite integração com o Google Drive e edição em equipe.
+- [Balsamiq] (https://balsamiq.com/) - Software para criação de mockups de telas.
+- [Pencil] (http://pencil.evolus.vn/) - Similar ao Balsamiq.
 
 ## Outros times
 
