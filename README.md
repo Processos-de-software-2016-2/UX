@@ -7,8 +7,8 @@ The UX team will be responsible, among other things, the usability and human-com
 - [Fabiana Marinheiro] (https://github.com/Fabixmar)
 - [Fernanda Chacon] (https://github.com/fernandachacon)
 - [João Matias] (https://github.com/jmatiasn)
-- [Matheus] (https://github.com/mbatistussi)
-- [Paula] (https://github.com/paulalps)
+- [Matheus Batistussi] (https://github.com/mbatistussi)
+- [Ana Paula Lopes de Souza] (https://github.com/paulalps)
 
 ## Other teams
 This project is developed with the following teams: [Android](https://github.com/Processos-de-software-2016-2/Android), [API](https://github.com/Processos-de-software-2016-2/python-api), [Infrastructure](https://github.com/Processos-de-software-2016-2/Infraestrutura) and [WebApp](https://github.com/Processos-de-software-2016-2/Web-App).
