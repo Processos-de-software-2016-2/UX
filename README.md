@@ -7,6 +7,7 @@ The UX team will be responsible, among other things, the usability and human-com
 - [Fabiana Marinheiro] (https://github.com/Fabixmar)
 - [Fernanda Chacon] (https://github.com/fernandachacon)
 - [João Matias] (https://github.com/jmatiasn)
+- [Matheus] (https://github.com/mbatistussi)
 - [Paula] (https://github.com/paulalps)
 
 ## Other teams
