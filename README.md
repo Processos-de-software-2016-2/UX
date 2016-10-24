@@ -1,5 +1,7 @@
 # Project X
 
+A ideia do projeto é basicamente uma rede social que irá integrar usuários com específicas habilidades e usuários que desejam adquirir essas habilidades para que entrem em contato e possam marcar de trocar essa habilidades. Por exemplo, uma pessoa sabe tocar violão e quer aprender inglês e existe outro usuário na aplicação que quer aprender tocar violão e sabe falar inglês e pode passar esse conhecimento, então elas marcam de se encontrarem e trocarem essas habilidades. 
+
 ## UX
 
 O time de UX será responsável, dentre outras coisas, pela usabilidade e interação humano-computador.
