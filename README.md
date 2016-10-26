@@ -21,9 +21,10 @@ O time de UX será responsável, dentre outras coisas, pela usabilidade e intera
 - [João Matias] (https://github.com/jmatiasn)
 - [Matheus Batistussi] (https://github.com/mbatistussi)
 
-## Schedule
+## Cronograma
 
-- 1st Spring - 10/26
+- Sprint 1 - 26/10/2016
+- Sprint 2 - 02/11/2016
 
 ## Ferramentas úteis
 
