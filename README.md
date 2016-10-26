@@ -1,4 +1,4 @@
-# Project X
+# Projeto X
 
 A ideia do projeto é basicamente uma rede social que irá integrar usuários com específicas habilidades e usuários que desejam adquirir essas habilidades para que entrem em contato e possam marcar de trocar essa habilidades. Por exemplo, uma pessoa sabe tocar violão e quer aprender inglês e existe outro usuário na aplicação que quer aprender tocar violão e sabe falar inglês e pode passar esse conhecimento, então elas marcam de se encontrarem e trocarem essas habilidades. 
 
@@ -24,7 +24,7 @@ O time de UX será responsável, dentre outras coisas, pela usabilidade e intera
 ## Cronograma
 
 - Sprint 0 - 26/10/2016
-- Sprint 1 - ??/??/2016
+- Sprint 1 - 07/11/2016
 
 ## Ferramentas úteis
 
