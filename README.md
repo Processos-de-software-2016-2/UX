@@ -23,8 +23,8 @@ O time de UX será responsável, dentre outras coisas, pela usabilidade e intera
 
 ## Cronograma
 
-- Sprint 1 - 26/10/2016
-- Sprint 2 - 02/11/2016
+- Sprint 0 - 26/10/2016
+- Sprint 1 - ??/??/2016
 
 ## Ferramentas úteis
 
